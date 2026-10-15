@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-bb70986fe3.pgwwr.cn/sitemap.xml
